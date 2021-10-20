@@ -1,3 +1,6 @@
 # project-jdbc
 
-## Projeto desenvolvido utilizando Java para criar conexão com o database (MySQL ou PostgreSQL).
+## Projeto desenvolvido utilizando Java para criar conexão com os database's.
+
+* MySQL 
+* PostgreSQL
